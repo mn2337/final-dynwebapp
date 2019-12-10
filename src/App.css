@@ -1,0 +1,20 @@
+.Head {
+  border-bottom: 1px solid black;
+}
+
+.Head nav {
+  align-items: center;
+  display: flex;
+  justify-content: flex-end;
+  margin: 0 auto;
+  max-width: 1048px;
+  padding: 10px 25px;
+}
+
+.Head nav a {
+  color: black;
+  display: inline-block;
+  font-size: 12px;
+  padding: 5px 15px;
+  text-decoration: none;
+}
