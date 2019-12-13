@@ -16,3 +16,5 @@ app.use('/submit', submitRoute);
 app.use('/submit-form', (req, res) => 
 	res.sendFile('/public/form.html', { root: __dirname })
 );
+
+app.listen(port, () => console.log(`Example app listening on port ${port}`));
