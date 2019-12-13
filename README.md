@@ -1,6 +1,6 @@
 my social media site: hatebook
 
-site where people would post stuff they hate and make friends among people who hate the same thing
+tumblr-esque site where people would post stuff they hate and make friends among people who hate the same thing
 
 site map
 	signup/login page
@@ -19,9 +19,7 @@ user profile
 
 post
 	- image
-	- emoji
 
 interacting with posts
 	- hates
-	- comments (in emoji)
-
+	- comments
